@@ -1,4 +1,4 @@
 # [C++] Helpers
 
 ### Content:
-- **CSimpleStack&lt;T&gt;** *(based on std::deque&lt;T&gt;)*
+- [CSimpleStack.h](**CSimpleStack&lt;T&gt;**) *(based on std::deque&lt;T&gt;)*
