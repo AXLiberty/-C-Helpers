@@ -1,4 +1,4 @@
 # [C++] Helpers
 
 Content:
-- CSimpleStack
+- CSimpleStack<T> (based on std::deque<T>)
