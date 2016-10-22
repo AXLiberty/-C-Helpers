@@ -1,6 +1,6 @@
 # [C++] Helpers
 
-### Content:
 ```
+### Content:
 - CSimpleStack<T> (based on std::deque<T>)
 ```
