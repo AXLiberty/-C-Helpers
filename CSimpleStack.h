@@ -19,7 +19,7 @@ public:
 
 	void push(T value)
 	{
-		if (count() >= m_u64MaxCount)
+		while (count() >= m_u64MaxCount)
 			pop_front();
 		push_back(value);
 	}
